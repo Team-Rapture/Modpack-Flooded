@@ -1,0 +1,43 @@
+{
+  "tabs": [
+    {
+      "uuid": "c051e0e2-f5ad-4b9d-b889-0ada75d4062b",
+      "displayName": "Default",
+      "sortIndex": 0,
+      "isVisible": true,
+      "stack": "minecraft:book",
+      "criteria": [
+        {
+          "timestamp": 0,
+          "uuid": "0e8613ec-8aba-4538-8692-f28342d5f706",
+          "displayName": "Getting Started",
+          "displayStack": "minecraft:stone 0",
+          "triggers": [
+            {
+              "uuid": "6904fae7-be90-42b0-aa71-d9878ba7dcb6",
+              "type": "trigger.clickBlock",
+              "data": {
+                "filters": []
+              }
+            }
+          ],
+          "repeatable": 1,
+          "infinite": false,
+          "tasksRequired": 1,
+          "allTasks": true,
+          "x": 214,
+          "y": 68,
+          "isVisible": true,
+          "displayAchievement": true,
+          "rewardsGiven": 1,
+          "allRewards": true
+        }
+      ]
+    }
+  ],
+  "defaultTabID": "c051e0e2-f5ad-4b9d-b889-0ada75d4062b",
+  "disableCraftingUntilRewardAdded": false,
+  "disableUsageUntilRewardAdded": false,
+  "unclaimedTileCanDoAnything": false,
+  "craftAnythingCreative": false
+}

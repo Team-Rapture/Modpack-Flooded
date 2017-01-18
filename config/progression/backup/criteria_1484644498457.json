@@ -1,0 +1,34 @@
+{
+  "tabs": [
+    {
+      "uuid": "c051e0e2-f5ad-4b9d-b889-0ada75d4062b",
+      "displayName": "Default",
+      "sortIndex": 0,
+      "isVisible": true,
+      "stack": "minecraft:book",
+      "criteria": [
+        {
+          "timestamp": 0,
+          "uuid": "0e8613ec-8aba-4538-8692-f28342d5f706",
+          "displayName": "New Criteria",
+          "displayStack": "minecraft:stone 0",
+          "repeatable": 1,
+          "infinite": false,
+          "tasksRequired": 1,
+          "allTasks": true,
+          "x": 37,
+          "y": 6,
+          "isVisible": true,
+          "displayAchievement": true,
+          "rewardsGiven": 1,
+          "allRewards": true
+        }
+      ]
+    }
+  ],
+  "defaultTabID": "c051e0e2-f5ad-4b9d-b889-0ada75d4062b",
+  "disableCraftingUntilRewardAdded": false,
+  "disableUsageUntilRewardAdded": false,
+  "unclaimedTileCanDoAnything": false,
+  "craftAnythingCreative": false
+}
