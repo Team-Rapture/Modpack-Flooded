@@ -5,7 +5,7 @@
 			"ores":[
 				{
 					"blockID":"poweradvantage:crude_oil",
-					"size":64,
+					"size":0,
 					"variation":50,
 					"frequency":0.25,
 					"minHeight":16,
